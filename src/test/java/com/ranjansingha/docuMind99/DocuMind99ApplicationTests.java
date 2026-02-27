@@ -1,10 +1,10 @@
-package com.documind.docuMind;
+package com.ranjansingha.docuMind99;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DocuMindApplicationTests {
+class DocuMind99ApplicationTests {
 
 	@Test
 	void contextLoads() {
